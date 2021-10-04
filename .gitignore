@@ -1,0 +1,7 @@
+.vs/
+build/
+Intermediate/
+Binaries/
+Saved/
+DerivedDataCache
+Content/StarterContent
